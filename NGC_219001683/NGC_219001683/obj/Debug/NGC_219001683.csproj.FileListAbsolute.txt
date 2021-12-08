@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\NGC_219001683\NGC_219001683\obj\Debug\NGC_219001683.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\NGC_219001683\NGC_219001683\obj\Debug\NGC_219001683.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\NGC_219001683\NGC_219001683\bin\Debug\NGC_219001683.exe.config
+C:\Users\Student\source\repos\NGC_219001683\NGC_219001683\bin\Debug\NGC_219001683.exe
+C:\Users\Student\source\repos\NGC_219001683\NGC_219001683\bin\Debug\NGC_219001683.pdb
+C:\Users\Student\source\repos\NGC_219001683\NGC_219001683\obj\Debug\NGC_219001683.exe
+C:\Users\Student\source\repos\NGC_219001683\NGC_219001683\obj\Debug\NGC_219001683.pdb
